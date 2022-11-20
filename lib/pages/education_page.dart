@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+
+class EducationPage extends StatelessWidget {
+  const EducationPage({
+    Key? key,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [],
+    );
+  }
+}
